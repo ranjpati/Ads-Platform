@@ -8,5 +8,7 @@ __pycache__
 .vscode
 .terraform/
 *.tfstate
+*.tfstate.*
 *.tfstate.backup
 /aws/
+terraform.tfvars
